@@ -1,0 +1,11 @@
+ El volumen de la unidad D es Data
+ El n£mero de serie del volumen es: 6A53-6672
+
+ Directorio de D:\Proyectos\Git\test
+
+25/10/2016  19:31    <DIR>          .
+25/10/2016  19:31    <DIR>          ..
+24/10/2016  19:55                14 README.md
+25/10/2016  19:36                 0 test.txt
+               2 archivos             14 bytes
+               2 dirs  747.247.038.464 bytes libres
